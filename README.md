@@ -31,11 +31,15 @@ THEN I am shown a 300x200 pixel image that matches the criteria I entered
 - Node.JS [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
-2. Open the cloned repository in any source code editor.
-3. Open the integrated terminal for the document and complete the respective installation guides provided above in section (2.) to ensure the cloned documentation will operate.
+2. Open the integrated terminal 
+3. Answer all of the questions
 
 ## Built With
 - Dynamic JavaScript
 - Node.js [Version 16.18.1](https://nodejs.org/en/blog/release/v16.18.1/)
 - Jest [Version 29.4.3](https://www.npmjs.com/package/jest)
 - Inquirer.js: [Version 8.2.4](https://www.npmjs.com/package/inquirer/v/8.2.4)
+
+
+## Demo
+![Homework demo](./image/homeworkExample.gif)
